@@ -9,4 +9,4 @@ I designed and created this analysis using Primavera P6 (and I captured into *.j
 
 
 E-mail: renniekaputri15@gmail.com </br>
-Phone: +62-81905146181 (Indonesia)
+Phone: +62-81905146181
